@@ -27,3 +27,4 @@ npm run dev
 - TypeScript
 - React
 - Tailwind CSS
+https://janebraga-nails-booking.lovable.app
